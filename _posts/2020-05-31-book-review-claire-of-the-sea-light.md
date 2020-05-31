@@ -1,6 +1,7 @@
 --
 layout: post
 title: "Book Review: Claire of the Sea Light by Edwidge Danticat"
+date: 2020-05-31
 --
 
 ## Book Review: Claire of the Sea Light - Edwidge Danticat
